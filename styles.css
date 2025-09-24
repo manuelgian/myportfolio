@@ -2052,7 +2052,7 @@ h2.section-title {
     height: auto; /* Maintain aspect ratio */
     display: inline-block; /* Ensure images are displayed as inline-block elements */
     vertical-align: top; /* Align images to the top */
-    animation: carouselAnimation 90s linear infinite; /* Adjust the duration (10s) and timing function (linear) as needed */
+    animation: carouselAnimation 50s linear infinite; /* Adjust the duration (10s) and timing function (linear) as needed */
 }
 
 /* HONORS AND AWARDS SECTION */
@@ -2578,3 +2578,4 @@ h2.section-title {
         display: none;
     }
 }
+
